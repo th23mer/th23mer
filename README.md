@@ -7,8 +7,10 @@ I'm a passionate FullStack developer from Tunisia
 **About me**
 
 - 💼 IT Student At ISIMS
+  
+- 🔭 I’m currently working on My End Of Studies Project
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love React
 
 - 💬 Ask me about anything [here](https://github.com/th23mer/th23amer/issues)
 
