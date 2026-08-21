@@ -4,9 +4,9 @@
 
 ## 🚀 Products I've shipped (live in production)
 
-- [**SPID Pro**](https://portal.spid-tech.com.tn) — multi-tenant ERP (invoicing, inventory, HR, payroll, treasury, reporting) used by 20+ businesses
-- [**SPID Med**](https://med.spid-tech.com.tn) — medical practice management (Electron, real-time, encrypted patient data) in 10+ clinics
-- [**SPID Car**](https://fleet.spid-tech.com.tn) — fleet rental platform with real-time GPS tracking, 5 operators at launch
+- [**SPID Pro**] — multi-tenant ERP (invoicing, inventory, HR, payroll, treasury, reporting) used by 20+ businesses
+- [**SPID Med**] — medical practice management (Electron, real-time, encrypted patient data) in 10+ clinics
+- [**SPID Car**] — fleet rental platform with real-time GPS tracking, 5 operators at launch
 - **Khloé Collection** — e-commerce + offline-first POS (PWA/Electron, IndexedDB sync) for a fashion boutique, delivered 2025
 
 Most of my production work lives in **private client repositories** — happy to walk through architecture and code in a call.
