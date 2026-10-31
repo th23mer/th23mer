@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="372" viewBox="0 0 440 372" role="img" aria-labelledby="t" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title id="t">JobLinker layered architecture: Routes, Controllers, Services, Repositories, PostgreSQL, with dependency inversion and a Lighthouse accessibility CI gate at 90 or above</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15110E"/><stop offset="1" stop-color="#211913"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity="0.025"/></pattern>
+</defs>
+<style>
+  .in { animation: rise .6s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(5px); } }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+
+</style>
+<rect width="440" height="372" rx="14" fill="url(#bg)"/>
+<rect width="440" height="372" rx="14" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="439" height="371" rx="13.5" fill="none" stroke="#4A3B2E"/>
+<text x="22" y="32" fill="#F5A524" font-size="13" font-weight="700" letter-spacing="2">JOBLINKER · LAYERS</text>
+<g class="in" style="animation-delay:0.10s"><rect x="22" y="50" width="396" height="38" rx="8" fill="#1D1712" stroke="#F5A524" stroke-opacity=".75"/><text x="36" y="74" fill="#F4EDE4" font-size="14" font-weight="700">Routes</text><text x="404" y="74" fill="#BDAE9C" font-size="13" text-anchor="end">HTTP endpoints</text></g>
+<g class="in" style="animation-delay:0.20s"><rect x="30" y="96" width="380" height="38" rx="8" fill="#1D1712" stroke="#F79A2C" stroke-opacity=".75"/><text x="44" y="120" fill="#F4EDE4" font-size="14" font-weight="700">Controllers</text><text x="396" y="120" fill="#BDAE9C" font-size="13" text-anchor="end">request / response</text></g>
+<g class="in" style="animation-delay:0.30s"><rect x="38" y="142" width="364" height="38" rx="8" fill="#1D1712" stroke="#FB843F" stroke-opacity=".75"/><text x="52" y="166" fill="#F4EDE4" font-size="14" font-weight="700">Services</text><text x="388" y="166" fill="#BDAE9C" font-size="13" text-anchor="end">business logic</text></g>
+<g class="in" style="animation-delay:0.40s"><rect x="46" y="188" width="348" height="38" rx="8" fill="#1D1712" stroke="#FF7A59" stroke-opacity=".75"/><text x="60" y="212" fill="#F4EDE4" font-size="14" font-weight="700">Repositories</text><text x="380" y="212" fill="#BDAE9C" font-size="13" text-anchor="end">raw SQL, no ORM</text></g>
+<g class="in" style="animation-delay:0.50s"><rect x="54" y="234" width="332" height="38" rx="8" fill="#1D1712" stroke="#8FD18B" stroke-opacity=".75"/><text x="68" y="258" fill="#F4EDE4" font-size="14" font-weight="700">PostgreSQL</text><text x="372" y="258" fill="#BDAE9C" font-size="13" text-anchor="end"></text></g>
+<text x="22" y="294" fill="#BDAE9C" font-size="13"><tspan fill="#F5A524" font-weight="700">↓ DIP</tspan>  each layer depends on interfaces,</text>
+<text x="22" y="313" fill="#BDAE9C" font-size="13">not on the concrete layer below</text>
+<rect x="22" y="332" width="396" height="26" rx="13" fill="#8FD18B" fill-opacity=".1" stroke="#8FD18B" stroke-opacity=".5"/>
+<circle cx="38" cy="345" r="4" fill="#8FD18B" class="pulse"/>
+<text x="50" y="349.5" fill="#8FD18B" font-size="13" font-weight="700">CI gate: Lighthouse a11y ≥ 90</text>
+</svg>

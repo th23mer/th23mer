@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="386" viewBox="0 0 440 386" role="img" aria-labelledby="t" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title id="t">Thamer Khaskhoussi. Full-Stack Developer, becoming a Software Engineer. ERP and clinic software used by 20+ businesses and 10+ clinics. Sfax, Tunisia, UTC+1, remote. Stack: TypeScript, React, Node.js, Python. Open to remote software engineering roles.</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15110E"/><stop offset="1" stop-color="#211913"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity="0.025"/></pattern>
+</defs>
+<style>
+  .in { animation: rise .6s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(5px); } }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .glow { animation: glow 4.8s ease-in-out infinite; }
+  @keyframes glow { 0%,100% { opacity: 1; } 50% { opacity: .6; } }
+</style>
+<rect width="440" height="386" rx="14" fill="url(#bg)"/>
+<rect width="440" height="386" rx="14" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="439" height="385" rx="13.5" fill="none" stroke="#4A3B2E"/>
+<path d="M0 14a14 14 0 0 1 14-14h412a14 14 0 0 1 14 14v22H0z" fill="#271E17"/>
+<line x1="0" y1="36" x2="440" y2="36" stroke="#4A3B2E"/>
+<circle cx="22" cy="18" r="5.5" fill="#FF7A59"/>
+<circle cx="40" cy="18" r="5.5" fill="#F5A524"/>
+<circle cx="58" cy="18" r="5.5" fill="#8FD18B"/>
+<text x="220.0" y="23" fill="#9A8B7C" font-size="13" text-anchor="middle">thamer@sfax: ~</text>
+<rect x="24" y="58" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.00s"/>
+<rect x="36" y="58" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.12s"/>
+<rect x="48" y="58" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.24s"/>
+<rect x="60" y="58" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.36s"/>
+<rect x="72" y="58" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.48s"/>
+<rect x="24" y="70" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="36" y="70" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="48" y="70" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.36s"/>
+<rect x="60" y="70" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="72" y="70" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="24" y="82" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="36" y="82" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="48" y="82" width="10" height="10" rx="1.7" fill="#F79A2C" class="glow" style="animation-delay:0.48s"/>
+<rect x="60" y="82" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="72" y="82" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="24" y="94" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="36" y="94" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="48" y="94" width="10" height="10" rx="1.7" fill="#F98E35" class="glow" style="animation-delay:0.60s"/>
+<rect x="60" y="94" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="72" y="94" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="24" y="106" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="36" y="106" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="48" y="106" width="10" height="10" rx="1.7" fill="#FB843F" class="glow" style="animation-delay:0.72s"/>
+<rect x="60" y="106" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="72" y="106" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="24" y="118" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="36" y="118" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="48" y="118" width="10" height="10" rx="1.7" fill="#FD7B4B" class="glow" style="animation-delay:0.84s"/>
+<rect x="60" y="118" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="72" y="118" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="24" y="130" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="36" y="130" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="48" y="130" width="10" height="10" rx="1.7" fill="#FF7A59" class="glow" style="animation-delay:0.96s"/>
+<rect x="60" y="130" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="72" y="130" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="92" y="58" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.60s"/>
+<rect x="104" y="58" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="116" y="58" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="128" y="58" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.96s"/>
+<rect x="140" y="58" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:1.08s"/>
+<rect x="92" y="70" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.72s"/>
+<rect x="104" y="70" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="116" y="70" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:0.96s"/>
+<rect x="128" y="70" width="10" height="10" rx="1.7" fill="#F5A524" class="glow" style="animation-delay:1.08s"/>
+<rect x="140" y="70" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="92" y="82" width="10" height="10" rx="1.7" fill="#F79A2C" class="glow" style="animation-delay:0.84s"/>
+<rect x="104" y="82" width="10" height="10" rx="1.7" fill="#F79A2C" class="glow" style="animation-delay:0.96s"/>
+<rect x="116" y="82" width="10" height="10" rx="1.7" fill="#F79A2C" class="glow" style="animation-delay:1.08s"/>
+<rect x="128" y="82" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="140" y="82" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="92" y="94" width="10" height="10" rx="1.7" fill="#F98E35" class="glow" style="animation-delay:0.96s"/>
+<rect x="104" y="94" width="10" height="10" rx="1.7" fill="#F98E35" class="glow" style="animation-delay:1.08s"/>
+<rect x="116" y="94" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="128" y="94" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="140" y="94" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="92" y="106" width="10" height="10" rx="1.7" fill="#FB843F" class="glow" style="animation-delay:1.08s"/>
+<rect x="104" y="106" width="10" height="10" rx="1.7" fill="#FB843F" class="glow" style="animation-delay:1.20s"/>
+<rect x="116" y="106" width="10" height="10" rx="1.7" fill="#FB843F" class="glow" style="animation-delay:1.32s"/>
+<rect x="128" y="106" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="140" y="106" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="92" y="118" width="10" height="10" rx="1.7" fill="#FD7B4B" class="glow" style="animation-delay:1.20s"/>
+<rect x="104" y="118" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="116" y="118" width="10" height="10" rx="1.7" fill="#FD7B4B" class="glow" style="animation-delay:1.44s"/>
+<rect x="128" y="118" width="10" height="10" rx="1.7" fill="#FD7B4B" class="glow" style="animation-delay:1.56s"/>
+<rect x="140" y="118" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="92" y="130" width="10" height="10" rx="1.7" fill="#FF7A59" class="glow" style="animation-delay:1.32s"/>
+<rect x="104" y="130" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="116" y="130" width="10" height="10" rx="1.7" fill="#FFFFFF" fill-opacity="0.04"/>
+<rect x="128" y="130" width="10" height="10" rx="1.7" fill="#FF7A59" class="glow" style="animation-delay:1.68s"/>
+<rect x="140" y="130" width="10" height="10" rx="1.7" fill="#FF7A59" class="glow" style="animation-delay:1.80s"/>
+<text x="172" y="80" fill="#F4EDE4" font-size="27" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Thamer</text>
+<text x="172" y="112" fill="#F4EDE4" font-size="27" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">Khaskhoussi</text>
+<text x="24" y="168" fill="#F5A524" font-size="15" font-weight="700">Full-Stack Developer <tspan fill="#9A8B7C">→</tspan></text>
+<text x="24" y="190" fill="#F5A524" font-size="15" font-weight="700">Software Engineer</text>
+<g class="in" style="animation-delay:0.10s"><text x="24" y="226" fill="#F4EDE4" font-size="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">ERP &amp; clinic software</text><text x="24" y="248" fill="#F4EDE4" font-size="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">used by <tspan fill="#F5A524" font-weight="700">20+ businesses</tspan> and <tspan fill="#F5A524" font-weight="700">10+ clinics</tspan>.</text></g>
+<line x1="24" y1="262" x2="416" y2="262" stroke="#4A3B2E" stroke-dasharray="3 5"/>
+<g class="in" style="animation-delay:0.18s"><text x="24" y="290" fill="#F5A524" font-size="13" font-weight="700">base</text><text x="92" y="290" fill="#F4EDE4" font-size="13">Sfax, TN · UTC+1 · remote</text></g>
+<g class="in" style="animation-delay:0.26s"><text x="24" y="314" fill="#F5A524" font-size="13" font-weight="700">stack</text><text x="92" y="314" fill="#F4EDE4" font-size="13">TS · React · Node.js · Python</text></g>
+<g class="in" style="animation-delay:0.34s"><text x="24" y="338" fill="#F5A524" font-size="13" font-weight="700">status</text><circle cx="97" cy="333.8" r="5" fill="#8FD18B" class="pulse"/><text x="108" y="338" fill="#8FD18B" font-size="13">open to remote roles</text></g>
+<text x="108" y="360" fill="#8FD18B" font-size="13">software engineering</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="356" viewBox="0 0 900 356" role="img" aria-labelledby="t" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<title id="t">Delivery, end to end, schema to server, as a deploy log: schema (data model; PostgreSQL, SQL Server), api (REST and real-time; Express, Zod, JWT, Socket.io), ui (web, desktop, offline; React, Electron, PWA), ci (tests and builds; GitHub Actions, Vitest, Playwright), deploy (containers on a VPS; Docker, Nginx), then live in production.</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15110E"/><stop offset="1" stop-color="#211913"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity="0.025"/></pattern>
+</defs>
+<style>
+  .in { animation: rise .6s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(5px); } }
+  .pulse { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .bar { transform-origin: 0 0; animation: fill 2.90s linear backwards; }
+  @keyframes fill { from { transform: scaleX(0); } }
+</style>
+<rect width="900" height="356" rx="14" fill="url(#bg)"/>
+<rect width="900" height="356" rx="14" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="899" height="355" rx="13.5" fill="none" stroke="#4A3B2E"/>
+<path d="M0 14a14 14 0 0 1 14-14h872a14 14 0 0 1 14 14v22H0z" fill="#271E17"/>
+<line x1="0" y1="36" x2="900" y2="36" stroke="#4A3B2E"/>
+<circle cx="22" cy="18" r="5.5" fill="#FF7A59"/>
+<circle cx="40" cy="18" r="5.5" fill="#F5A524"/>
+<circle cx="58" cy="18" r="5.5" fill="#8FD18B"/>
+<text x="450.0" y="23" fill="#9A8B7C" font-size="13" text-anchor="middle">ship.log</text>
+<text x="28" y="66" font-size="15"><tspan fill="#8FD18B">~</tspan><tspan fill="#9A8B7C">$ </tspan><tspan fill="#F4EDE4">ship --to production</tspan></text>
+<text x="872" y="66" fill="#F5A524" font-size="13" font-weight="700" letter-spacing="2" text-anchor="end">END TO END · SCHEMA TO SERVER</text>
+<line x1="46" y1="112" x2="46" y2="302" stroke="#4A3B2E" stroke-width="2"/>
+<g class="in" style="animation-delay:0.20s"><circle cx="46" cy="107" r="9" fill="#1D1712" stroke="#8FD18B" stroke-width="1.5"/><path d="M42 107 l3 3 l5 -6" fill="none" stroke="#8FD18B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="72" y="112" fill="#F5A524" font-size="15" font-weight="700">schema</text><text x="166" y="112" fill="#F4EDE4" font-size="15">data model</text><text x="872" y="112" fill="#BDAE9C" font-size="14" text-anchor="end">PostgreSQL · SQL Server</text><line x1="392" y1="107" x2="665" y2="107" stroke="#4A3B2E" stroke-dasharray="2 6"/></g>
+<g class="in" style="animation-delay:0.65s"><circle cx="46" cy="145" r="9" fill="#1D1712" stroke="#8FD18B" stroke-width="1.5"/><path d="M42 145 l3 3 l5 -6" fill="none" stroke="#8FD18B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="72" y="150" fill="#F5A524" font-size="15" font-weight="700">api</text><text x="166" y="150" fill="#F4EDE4" font-size="15">REST + real-time</text><text x="872" y="150" fill="#BDAE9C" font-size="14" text-anchor="end">Express · Zod · JWT · Socket.io</text><line x1="392" y1="145" x2="598" y2="145" stroke="#4A3B2E" stroke-dasharray="2 6"/></g>
+<g class="in" style="animation-delay:1.10s"><circle cx="46" cy="183" r="9" fill="#1D1712" stroke="#8FD18B" stroke-width="1.5"/><path d="M42 183 l3 3 l5 -6" fill="none" stroke="#8FD18B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="72" y="188" fill="#F5A524" font-size="15" font-weight="700">ui</text><text x="166" y="188" fill="#F4EDE4" font-size="15">web, desktop, offline</text><text x="872" y="188" fill="#BDAE9C" font-size="14" text-anchor="end">React · Electron · PWA</text><line x1="392" y1="183" x2="673" y2="183" stroke="#4A3B2E" stroke-dasharray="2 6"/></g>
+<g class="in" style="animation-delay:1.55s"><circle cx="46" cy="221" r="9" fill="#1D1712" stroke="#8FD18B" stroke-width="1.5"/><path d="M42 221 l3 3 l5 -6" fill="none" stroke="#8FD18B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="72" y="226" fill="#F5A524" font-size="15" font-weight="700">ci</text><text x="166" y="226" fill="#F4EDE4" font-size="15">tests + builds</text><text x="872" y="226" fill="#BDAE9C" font-size="14" text-anchor="end">GitHub Actions · Vitest · Playwright</text><line x1="392" y1="221" x2="556" y2="221" stroke="#4A3B2E" stroke-dasharray="2 6"/></g>
+<g class="in" style="animation-delay:2.00s"><circle cx="46" cy="259" r="9" fill="#1D1712" stroke="#8FD18B" stroke-width="1.5"/><path d="M42 259 l3 3 l5 -6" fill="none" stroke="#8FD18B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="72" y="264" fill="#F5A524" font-size="15" font-weight="700">deploy</text><text x="166" y="264" fill="#F4EDE4" font-size="15">containers on a VPS</text><text x="872" y="264" fill="#BDAE9C" font-size="14" text-anchor="end">Docker · Nginx</text><line x1="392" y1="259" x2="740" y2="259" stroke="#4A3B2E" stroke-dasharray="2 6"/></g>
+<g class="in" style="animation-delay:2.45s"><circle cx="46" cy="297" r="9" fill="#8FD18B" fill-opacity=".18"/><circle cx="46" cy="297" r="5" fill="#8FD18B" class="pulse"/><text x="72" y="302" fill="#8FD18B" font-size="15" font-weight="700">live</text><text x="166" y="302" fill="#8FD18B" font-size="15">running in production</text></g>
+<rect x="28" y="330" width="844" height="4" rx="2" fill="#4A3B2E"/>
+<rect x="28" y="330" width="844" height="4" rx="2" fill="#8FD18B" class="bar" style="animation-delay:.2s"/>
+</svg>
